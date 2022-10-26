@@ -1,4 +1,4 @@
-This is a test file. 
+This is a test file. It's a silly test file. 
 
 It's for Exercise #7. 
 
