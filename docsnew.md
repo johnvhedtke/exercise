@@ -2,7 +2,7 @@ This is a test file. It's a silly test file. Change to line 1
 
 It's for Exercise #7. It's now for Exercise 9. 
 
-Twas brillig. Ghange to line 3
+Twas brillig. Except for Grimbling, on feet. 
 
 And the slithy toves. 
 
